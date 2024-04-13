@@ -32,7 +32,7 @@
             <li>
                 <a href="lich_su_kien.php">
                     <span class="menu-icon">&#128197;</span>
-                    <span class="menu-text">Lịch sự kiện và Hoạt động</span>
+                    <span class="menu-text">Sự kiện và Hoạt động</span>
                 </a>
             </li>
             <li>
