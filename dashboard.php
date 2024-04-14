@@ -30,9 +30,7 @@ if ($_SESSION['role'] !== 'admin') {
     <div class="container">
         <div class="user-info">
             <?php 
-                if (isset($_SESSION['username'])) {
-                    echo "<p>Xin chào, " . $_SESSION['username'] . "</p>";
-                }
+                if (isset($_SESSION['username'])) {echo "<p>Xin chào, " . $_SESSION['username'] . "</p>";}
             ?>
             <a href="logout.php" class="btn logout-button">Đăng xuất</a>
         </div>

@@ -46,7 +46,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <input type="submit" value="Đăng nhập">
         </form>
         <?php if (isset($error)) echo "<p>$error</p>"; ?>
-        <p>Chưa có tài khoản? <a href="register.php">Đăng ký ngay</a>.</p>
+        <p>Chưa có tài khoản ? <a href="register.php">Đăng ký ngay</a>.</p>
     </div>
 </body>
 </html>
