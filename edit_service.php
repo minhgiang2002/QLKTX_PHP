@@ -84,4 +84,3 @@ if (isset($_GET['service_id'])) {
     </div>
 </body>
 </html>
-
