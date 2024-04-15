@@ -1,4 +1,4 @@
-# 🏢 Quản Lý Sinh Viên Ký Túc Xá (QLSVKT) 🏢
+# 🏢 Quản Lý Sinh Viên Ký Túc Xá (QLKTX) 🏢
 
 Dự án Quản Lý Sinh Viên Ký Túc Xá là một ứng dụng được phát triển bằng PHP để quản lý thông tin về sinh viên và ký túc xá.
 
